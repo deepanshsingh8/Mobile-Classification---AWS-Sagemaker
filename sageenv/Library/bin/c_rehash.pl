@@ -13,7 +13,7 @@
 # and add symbolic links to their hash values.
 
 my $dir = "C:\\Program Files\\Common Files\\ssl";
-my $prefix = "D:/Projects/Mobile-Classification---AWS-Sagemaker/sagemakerenv\\Library";
+my $prefix = "D:/Projects/Mobile-Classification---AWS-Sagemaker/sageenv\\Library";
 
 my $errorcount = 0;
 my $openssl = $ENV{OPENSSL} || "openssl";
